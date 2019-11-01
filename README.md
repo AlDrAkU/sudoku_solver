@@ -1,1 +1,1 @@
-# sudoku+slolver
+# sudoku solver
